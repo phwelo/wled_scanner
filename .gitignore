@@ -1,0 +1,32 @@
+# Ignore Python cache and temporary files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore temporary files created by editors
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Ignore logs and temporary data
+*.log
+*.tmp
+
+# Ignore discovered services output
+discovered_services.json
+
+# Ignore backup files
+*.bak
+*.old
+*.backup
+
+# Ignore virtual environments
+env/
+venv/
+.venv/
