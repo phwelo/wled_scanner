@@ -1,0 +1,49 @@
+{
+  "discovered_services": [
+    {
+      "name": "matrix1._wled._tcp.local.",
+      "type": "_wled._tcp.local.",
+      "address": "192.168.68.72",
+      "port": 80,
+      "properties": {
+        "mac": "5ccf7fcb02fd"
+      }
+    },
+    {
+      "name": "wled-front-fairy._wled._tcp.local.",
+      "type": "_wled._tcp.local.",
+      "address": "192.168.68.110",
+      "port": 80,
+      "properties": {
+        "mac": "bcddc256f0a1"
+      }
+    },
+    {
+      "name": "wled-desk-notify._wled._tcp.local.",
+      "type": "_wled._tcp.local.",
+      "address": "192.168.68.110",
+      "port": 80,
+      "properties": {
+        "mac": "bcddc256f0a1"
+      }
+    },
+    {
+      "name": "PorchStrip._wled._tcp.local.",
+      "type": "_wled._tcp.local.",
+      "address": "192.168.68.57",
+      "port": 80,
+      "properties": {
+        "mac": "84f3eb1f973b"
+      }
+    },
+    {
+      "name": "matrix2._wled._tcp.local.",
+      "type": "_wled._tcp.local.",
+      "address": "192.168.68.67",
+      "port": 80,
+      "properties": {
+        "mac": "c8c9a33969af"
+      }
+    }
+  ]
+}
